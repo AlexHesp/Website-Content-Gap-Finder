@@ -1,0 +1,6 @@
+spacy>=3.0
+pandas
+thefuzz
+python-Levenshtein
+openai
+python-dotenv
